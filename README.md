@@ -52,12 +52,12 @@
   </tr>
   <tr>
     <td <td> :white_check_mark: </td>
-    <td <td style="height:10px;"> 1.) Perform linear regression using the lm() function. In the lm() function, pass in all six variables (i.e., columns), and add the dataframe you created in Step 4 as the data parameter.</td>
-    <td <td style="height:10px;"><img src="https://github.com/jcaraway-na/MechaCar_Statistical_Analysis/blob/main/images/importcsv_linear_regression_six_variables.png" width=100% height=100%></td>
+    <td <td style="height:10px;"> 1.) Write an RScript that creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coil’s PSI column.</td>
+    <td <td style="height:10px;"><img src="https://github.com/jcaraway-na/MechaCar_Statistical_Analysis/blob/main/images/total_summary.png" width=100% height=100%></td>
   </tr>
   <tr>
     <td> :white_check_mark: </td>
-    <td style="height:10px;"> 2.) Using the summary() function, determine the p-value and the r-squared value for the linear regression model.</td>
-    <td <td style="height:10px;"><img src="https://github.com/jcaraway-na/MechaCar_Statistical_Analysis/blob/main/images/summary.png" width=100% height=100%></td>
+    <td style="height:10px;"> 2.) Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.</td>
+    <td <td style="height:10px;"><img src="https://github.com/jcaraway-na/MechaCar_Statistical_Analysis/blob/main/images/lot_summary.png" width=100% height=100%></td>
   </tr>
 </table>
