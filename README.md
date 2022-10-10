@@ -62,6 +62,8 @@
   </tr>
 </table>
 
+---
+
 ## Deliverable 3: T-Test on Suspension Coils
 
 <table>
