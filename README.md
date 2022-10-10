@@ -61,3 +61,28 @@
     <td <td style="height:10px;"><img src="https://github.com/jcaraway-na/MechaCar_Statistical_Analysis/blob/main/images/lot_summary.png" width=100% height=100%></td>
   </tr>
 </table>
+
+---
+
+## Deliverable 3: T-Test on Suspension Coils
+
+<table>
+  <tr>
+    <td>Complete</td>
+    <td>Task</td>
+    <td>Example</td>
+  </tr>
+  <tr>
+    <td <td> :white_check_mark: </td>
+    <td <td style="height:10px;"> 1.) In your MechaCarChallenge.RScript, write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.</td>
+    <td <td style="height:10px;"><img src="https://github.com/jcaraway-na/MechaCar_Statistical_Analysis/blob/main/images/t_test.png" width=100% height=100%></td>
+  </tr>
+  <tr>
+    <td> :white_check_mark: </td>
+    <td style="height:10px;"> 2.) Next, write three more RScripts in your MechaCarChallenge.RScript using the t.test() function and its subset() argument to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.</td>
+    <td <td style="height:10px;">
+    <img src="https://github.com/jcaraway-na/MechaCar_Statistical_Analysis/blob/main/images/tree_more_psittest.png" width=100% height=100%>
+    <img src="https://github.com/jcaraway-na/MechaCar_Statistical_Analysis/blob/main/images/tree_t_test.png" width=100% height=100%>
+    </td>
+  </tr>
+</table>
