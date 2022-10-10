@@ -80,9 +80,17 @@
   <tr>
     <td> :white_check_mark: </td>
     <td style="height:10px;"> 2.) Next, write three more RScripts in your MechaCarChallenge.RScript using the t.test() function and its subset() argument to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.</td>
-    <td <td style="height:10px;">
+    <td <td style="width:10px;">
     <img src="https://github.com/jcaraway-na/MechaCar_Statistical_Analysis/blob/main/images/tree_more_psittest.png" width=100% height=100%>
     <img src="https://github.com/jcaraway-na/MechaCar_Statistical_Analysis/blob/main/images/tree_t_test.png" width=100% height=100%>
     </td>
   </tr>
 </table>
+
+## Study Design: MechaCar vs Competition
+
+> When diving deeper into the data, we split the data into 3 buckets. Lot 1 and Lot 2 have similar PSI mean and median, with a variance ranging from 0.98 to 7.5 (rounded up), well below the lot allowed. Lot 3 has a lower psi mean and median, with a much higher variance of 170.286 exceeding the lot allowed 100 PSI variance. Just by reviewing this simple variance analysis, we can determine that lot 3 is the contributor to the full lot t-test variance.  
+
+<div>
+<img src="https://github.com/jcaraway-na/MechaCar_Statistical_Analysis/blob/main/images/box_plot.png" width=100% height=100%>
+</div>
